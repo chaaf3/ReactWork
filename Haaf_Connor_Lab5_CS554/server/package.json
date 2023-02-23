@@ -1,0 +1,17 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "graphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "Node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "axios": "^1.1.3",
+    "graphql": "^16.6.0",
+    "redis": "^4.4.0"
+  }
+}
